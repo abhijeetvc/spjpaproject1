@@ -11,3 +11,9 @@ public class Spjpaproject1Application {
 	}
 
 }
+
+
+// OneToOne
+// OneToMany
+// ManyToOne
+// ManyToMany
